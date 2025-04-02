@@ -10,3 +10,4 @@
 ```
 # TWRP_lenovo_X303X
 # TWRP_lenovo_X303X
+# TWRP_lenovo_X303X
